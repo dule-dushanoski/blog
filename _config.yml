@@ -3,14 +3,14 @@ email:              dushko.dushanoski@gmail.com
 description:        A Walk On The Other Side Of The Mirror
 author:             Dushko Dushanoski
 baseurl:            "/blog"
-url:                "https://startbootstrap.github.io"
+url:                "https://dule-dushanoski.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
-instagram_username:
-linkedin_username:
+twitter_username:   dushko100
+github_username:    dule-dushanoski
+facebook_username:  dusko.dusanoski
+instagram_username: dule100
+linkedin_username:  dushko-dushanoski-94a7b089
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
